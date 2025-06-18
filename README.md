@@ -77,6 +77,5 @@ Se prueban frases nuevas con ambos modelos:
 - Se recomienda mejorar el balance de clases y enriquecer los textos para proyectos futuros
 
 ---
-
-**Archivo entregado**: `Datasets_Apellido.ipynb`  
+ 
 **Formato**: Notebook en Python (.ipynb), compatible con Google Colab y Jupyter
